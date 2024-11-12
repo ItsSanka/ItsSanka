@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://itssanka.github.io/-/](https://itssanka.github.io/-/)
+- 👨‍💻 All of my projects are available at [https://itssanka.github.io/-/](https://github.com/ItsSanka?tab=repositories)
 
 - 💬 Ask me about **frontend developement**
 
